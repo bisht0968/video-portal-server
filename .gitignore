@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Cache & temp
+*.tgz
+.cache/
+tmp/
+temp/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Uploaded files
+uploads/
