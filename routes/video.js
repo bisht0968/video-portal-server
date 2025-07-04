@@ -14,7 +14,6 @@ router.post(
     uploadVideo
 );
 
-
 router.get('/getAllVideos', getAllVideos);
 
 router.get('/:id', getSingleVideo);
